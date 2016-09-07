@@ -1,0 +1,19 @@
+﻿{
+  "name": "asyncmongostreamer",
+  "version": "0.0.1",
+  "description": "asynchronous mongodb streamer",
+  "main": "asyncmongostreamer.js",
+  "dependencies": {
+    "mongodb": "latest",
+    "co": "latest"
+  },
+  "repository": {
+    "type": "local"
+  },
+  "keywords": [
+    "asyncrecordwriter",
+    "asyncmongostreamer"
+  ],
+  "author": "Xihua Duan, xihua.duan@tourank.com",
+  "license": "none"
+}
